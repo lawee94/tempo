@@ -8,7 +8,7 @@ An application used to manage users and teams built with `Typescript`, `React`, 
 
 ## Project Link
 
-https://tempo-ex.herokuapp.com/
+https://tempo-ex.netlify.app
 
 ## Installation and Setup Instructions
 
