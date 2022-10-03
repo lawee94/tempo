@@ -8,7 +8,7 @@ An application used to manage users and teams built with `Typescript`, `React`, 
 
 ## Project Link
 
-https://bike-4746c.web.app
+https://tempo-ex.herokuapp.com/
 
 ## Installation and Setup Instructions
 
