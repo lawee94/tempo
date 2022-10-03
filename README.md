@@ -34,14 +34,14 @@ To Visit App:
 
 ## Reflection
 
-Based on the test given instruction to have access role, i created a light-weight login page to collect ID and make sure only the wright ID access to the page and also to know the role of the current user
+Based on the test given instruction to have access role, i created a light-weight login page to collect ID and make sure only the right ID have access to the page and also to know the role of the current user
 
 According to the project description, the project is to have at least two(2) user roles:
 
 1. Engineering Manager
 2. Team Lead
 
-But i added a third role called `Member` which is the default role of a user
+But i added a third role called `Member` which is the default role of a normal user
 
 Below is a sample ID for each of these roles to login
 
@@ -49,11 +49,11 @@ Engineering Manager:
 `EM_3826-dodge-user-all`
 
 Team Lead:
-`b12fa35a-9c4c-4bf9-8f32-27cf03a1f190`
+`b12fa35a-9c4c-4bf9-8f32-27cf03a1f190`  
 `aca6aac7-b6e9-4425-8961-801aae6eb2dd`
 
 Member:
-`827411ea-1f07-4b5a-a2eb-84717f0a8904`
+`827411ea-1f07-4b5a-a2eb-84717f0a8904`  
 `826ddd76-4a45-4821-9c81-8d8efbb17a4b`
 
 ENJOY!
