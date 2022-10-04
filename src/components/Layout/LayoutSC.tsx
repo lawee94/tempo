@@ -66,6 +66,10 @@ export const LayoutContainer = styled.div`
 			h3 {
 				margin: 0 auto 30px auto;
 			}
+
+			@media (max-width: 480px) {
+				min-width: 95% !important;
+			}
 		}
 
 		&.content_card {
@@ -86,6 +90,10 @@ export const LayoutContainer = styled.div`
 
 		&.short {
 			width: 400px;
+
+			@media (max-width: 480px) {
+				width: 100% !important;
+			}
 		}
 
 		&::placeholder {
@@ -110,6 +118,7 @@ export const LayoutContainer = styled.div`
 		display: flex;
 		margin: 20px;
 		padding: 20px;
+		flex-wrap: wrap;
 
 		span {
 			font-weight: 600;
@@ -121,8 +130,11 @@ export const LayoutContainer = styled.div`
 			max-width: 200px;
 		}
 
-		svg path {
-			fill: #004789;
+		svg {
+			margin-bottom: 20px;
+			path {
+				fill: #004789;
+			}
 		}
 	}
 
@@ -131,6 +143,11 @@ export const LayoutContainer = styled.div`
 		justify-content: space-between;
 		margin: 20px;
 		padding: 20px;
+
+		@media (max-width: 480px) {
+			padding: 0;
+			margin: 10px;
+		}
 
 		div {
 			padding: 20px;
